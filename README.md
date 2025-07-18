@@ -5,6 +5,7 @@ This project aims to forecast the Consumer Price Index (CPI) of India using a co
 The dataset used in this project is curated from public RBI sources and includes monthly records from October 2017 to June 2025. It spans a variety of economic features such as CPI (overall, food, rural, agricultural), Index of Industrial Production, foreign trade metrics, market borrowings, and exchange rate movements.
 
 Dataset used can be acessed as follows: 
+
     from datasets import load_dataset
 
     # Login using e.g. `huggingface-cli login` to access this dataset
