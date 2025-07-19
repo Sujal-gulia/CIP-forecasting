@@ -1,0 +1,4 @@
+[ 2025-07-19 19:55:15,542 ] 112 datasets - INFO - TensorFlow version 2.19.0 available.
+[ 2025-07-19 19:55:16,685 ] 23 root - INFO - Entered the data ingestion method or component
+[ 2025-07-19 19:55:22,914 ] 35 root - INFO - Generating lag features for targets
+[ 2025-07-19 19:55:22,925 ] 44 root - INFO - Applying rolling mean to input features

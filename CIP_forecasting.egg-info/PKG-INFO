@@ -15,6 +15,7 @@ Requires-Dist: sktime
 Requires-Dist: tensorflow
 Requires-Dist: keras
 Requires-Dist: SHAP
+Requires-Dist: datasets
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist

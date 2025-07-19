@@ -10,4 +10,5 @@ sktime
 tensorflow
 keras
 SHAP
+datasets
 -e .

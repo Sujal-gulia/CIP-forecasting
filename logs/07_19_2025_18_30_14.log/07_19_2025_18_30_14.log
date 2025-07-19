@@ -1,0 +1,4 @@
+[ 2025-07-19 18:30:20,767 ] 112 datasets - INFO - TensorFlow version 2.19.0 available.
+[ 2025-07-19 18:30:21,689 ] 23 root - INFO - Entered the data ingestion method or component
+[ 2025-07-19 18:31:01,807 ] 32 root - INFO - Train test split initiated
+[ 2025-07-19 18:31:02,249 ] 39 root - INFO - Ingesion of the data is completed
