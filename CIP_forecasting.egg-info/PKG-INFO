@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: CIP-forecasting
+Version: 0.0.1
+Author: Sujal Gulia
+Author-email: sujal.gulia18@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scipy
+Requires-Dist: datetime
+Requires-Dist: statsmodels
+Requires-Dist: sktime
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: SHAP
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
